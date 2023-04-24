@@ -1,18 +1,19 @@
 import React from "react";
 import "./about.css";
+import lanamckay from "../../../assets/icons/lanamckay.png"
 import SocialContact from "../../common/social-contact/index";
 function About() {
   return (
     <div className="about">
       <div className="about-top">
         <div className="about-info">
-          Enchanté,
-         <br /> <span className="info-name">Victor Philippe</span>.
-         <br /> Développeur Web Freelance
+          Hello, nice to meet you 👋
+         <br /> <span className="info-name">I'm Lana</span>.
+         <br /> Developer and Product Manager
         </div>
         <div className="about-photo">
           <img 
-            src={require("../../../assets/coding.png")}
+            src={lanamckay}
             className="picture"
           />
         </div>
