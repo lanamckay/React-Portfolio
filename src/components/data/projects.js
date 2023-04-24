@@ -13,7 +13,7 @@ export const ProjectData=[
     {
         id:1,
         title:"Out of the Groupchat",
-        about: "This is a ramdom project I am using to React.JS,Javascript, HTML/CSS.This is portfolio website and I hope you are enjoying this portfolio.Make sure you like and comment if you have any doubt",
+        about: "Web application that makes planning events easy by asking participants to vote and indicate their availability from your options",
         tags:["🛠️ React, TypeScript, HTML, CSS"],
         github:"https://github.com/MatthewZhang7/OOTGCcore",
         image: ootgc,
