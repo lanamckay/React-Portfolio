@@ -1,31 +1,47 @@
 export const SkillsData = [
   {
-    type: "Front-End",
+    type: "Languages",
     list: [
       {
         name: "ReactJS",
         icon: <i class="devicon-react-original colored"></i>
         },
       {
-        name: "HTML5",
-        icon: <i class="devicon-html5-plain colored"></i>
-        },
-      {
         name: "JavaScript",
         icon: <i class="devicon-javascript-plain colored"></i>
       },
+      {
+        name: "C++",
+        icon: <i class="devicon-cplusplus-plain colored"></i>
+        },
+      {
+        name: "Node.js",
+        icon: <i class="devicon-nodejs-plain colored"></i>
+        },
+      {
+        name: "Drupal",
+        icon: <i class="devicon-drupal-plain colored"></i>
+        },
     ],
   },
   {
-    type: "Other Skills",
+    type: "Tools",
     list: [
       {
-        name: "Firebase",
-        icon: <i class="devicon-firebase-plain colored"></i>
+        name: "Canva",
+        icon: <i class="devicon-canva-original colored"></i>
       },
       {
-        name: "Bootstrap",
-        icon: <i class="devicon-bootstrap-plain colored"></i>
+        name: "Figma",
+        icon: <i class="devicon-figma-plain colored"></i>
+      },
+      {
+        name: "Jira",
+        icon: <i class="devicon-jira-plain colored"></i>
+      },
+      {
+        name: "Confluence",
+        icon: <i class="devicon-confluence-original colored"></i>
       },
       {
         name: "Azure",
