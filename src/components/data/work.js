@@ -27,7 +27,7 @@ export const WorkData = [
         work:"Node.js · Docker · React.js · Pivotal Cloud Foundry (PCF) "
     },
     {
-        company: "Platform Relability Engineer" ,
+        company: "Manulife - Platform Reliability Engineer" ,
         designation: "W",
         dateJoining: "Sept",
         dateEnd: "Dec 2021",
@@ -35,7 +35,7 @@ export const WorkData = [
         work:"New Relic · Dynatrace · Moogsoft · Jira"
     },
     {
-        company: "Renison University College" ,
+        company: "Renison - Operations Specialist" ,
         designation: "W",
         dateJoining: "Jan",
         dateEnd: "April 2020",
