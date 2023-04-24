@@ -15,11 +15,11 @@ function Body() {
     <section id="projects">
       <Projects />
     </section>
-    <section id="skills">
-      <Skills />
-    </section>
     <section id="work">
       <Work />
+    </section>
+    <section id="skills">
+      <Skills />
     </section>
     <section id="contact">
       <Contact />
