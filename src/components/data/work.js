@@ -1,34 +1,45 @@
+import empire from '../../assets/icons/empirelife.png';
+import manulife from '../../assets/icons/manulife.png'
+import renison from '../../assets/icons/renison.png'
 export const WorkData = [
     {
-        company: "Webdéveloppeur, freelance" ,
-        designation: "Webdéveloppeur",
-        dateJoining: "2019",
-        dateEnd: "2022",
-        companyLogo:"https://cdn-icons-png.flaticon.com/512/2537/2537338.png",
-        work:"Sur demandes, Webdéveloppeur et conseil IT en freelance, notamment en Suisse",
+        company: "Empire Life - Full Stack Developer" ,
+        designation: "Full Stack Developer",
+        dateJoining: "Jan ",
+        dateEnd: " May 2023",
+        companyLogo: empire,
+        work:"Drupal · PHP · OpenID Connect · Jupyter Notebook",
     },
     {
-        company: "Certificat de Webdéveloppeur - Becode" ,
+        company: "Empire Life - Product Manager" ,
         designation: "W",
-        dateJoining: "21.05.2022",
-        dateEnd: "06.12.2019",
-        companyLogo:"https://cdn-icons-png.flaticon.com/512/2537/2537415.png",
-        work:"Certificat Obtenu auprès de becode.org au Pôle image de Liège, avec un stage chew Mwesto Labs - Liège"
+        dateJoining: "Jan",
+        dateEnd: "May 2023",
+        companyLogo: empire,
+        work:"Gantt Charts · Roadmaps · Prototyping · Wireframes"
     },
     {
-        company: "AESI Sciences Humaines - HeCh" ,
+        company: "Manulife - Full Stack Site Relability Engineer" ,
         designation: "W",
-        dateJoining: "15.09.2020",
-        dateEnd: "15.08.2022",
-        companyLogo:"https://cdn-icons-png.flaticon.com/512/2537/2537415.png",
-        work:"B2 Enseignant en Sciences Humaines, arrêté pour raisons médicales et reprise de l'activité d'informaticien"
+        dateJoining: "May",
+        dateEnd: "August 2022",
+        companyLogo: manulife,
+        work:"Node.js · Docker · React.js · Pivotal Cloud Foundry (PCF) "
     },
     {
-        company: "Intérim" ,
+        company: "Platform Relability Engineer" ,
         designation: "W",
-        dateJoining: "2016",
-        dateEnd: "Present",
-        companyLogo:"https://cdn-icons-png.flaticon.com/512/2537/2537415.png",
-        work:"Horéca, Ouvrier de production, Caissier, Technicien Polyvalent en constructions modulaires, Magasinier, Gardien de tournage, Runner Cinéma, Livreur de Matelas,..."
+        dateJoining: "Sept",
+        dateEnd: "Dec 2021",
+        companyLogo: manulife,
+        work:"New Relic · Dynatrace · Moogsoft · Jira"
+    },
+    {
+        company: "Renison University College" ,
+        designation: "W",
+        dateJoining: "Jan",
+        dateEnd: "April 2020",
+        companyLogo: renison,
+        work:"AutoCAD · SOLIDWORKS · Jira"
     }
 ]

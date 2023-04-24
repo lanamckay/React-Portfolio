@@ -14,10 +14,6 @@ export const SkillsData = [
         name: "JavaScript",
         icon: <i class="devicon-javascript-plain colored"></i>
       },
-      {
-        name: "TailwindCSS",
-        icon: <i class="devicon-tailwindcss-plain colored"></i>
-      },
     ],
   },
   {
