@@ -23,7 +23,6 @@ function About() {
           />
         </div>
       </div>
-      <SocialContact />
     </div>
   );
 }
