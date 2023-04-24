@@ -12,7 +12,9 @@ function About() {
         <br /> 
     I'm a 3rd year Systems Design Engineering student at the University of Waterloo 💻
     <br />
+    <br />
     I have gained valuable experience working in software development and product management through personal projects, hackathons, and work experiences.
+    <br />
     <br />
     During my free time you can find me at the gym, travelling, eating good foods, or hanging out with my dog!
         </div>
