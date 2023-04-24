@@ -8,14 +8,14 @@ function Web() {
           <i class="fi-rr-edit-alt option-icon"></i>Projects
         </a>
     </div>
-    <div className="web-option">
-        <a href="#skills">
-        <i class="fi-rr-laptop option-icon"></i>Skills
+  <div className="web-option">
+        <a href="#work">
+        <i class="fi-rr-briefcase option-icon"></i>Experience
         </a>
     </div>
     <div className="web-option">
-        <a href="#work">
-        <i class="fi-rr-briefcase option-icon"></i>Work
+        <a href="#skills">
+        <i class="fi-rr-laptop option-icon"></i>Skills
         </a>
     </div>
     <div className="web-option">
