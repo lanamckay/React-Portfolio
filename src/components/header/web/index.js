@@ -10,17 +10,17 @@ function Web() {
     </div>
   <div className="web-option">
         <a href="#work">
-        <i class="fi-rr-briefcase option-icon"></i>Experience
+        <i class=""></i>Experience
         </a>
     </div>
     <div className="web-option">
         <a href="#skills">
-        <i class="fi-rr-laptop option-icon"></i>Skills
+        <i class=""></i>Skills
         </a>
     </div>
     <div className="web-option">
         <a href="#contact">
-        <i class="fi fi-rr-user option-icon"></i>Contact
+        <i class=""></i>Contact
         </a>
     </div>
   </div>;
