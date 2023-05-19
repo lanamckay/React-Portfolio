@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import lanamckay from "../../../assets/icons/lanamckay.png"
+import lanamckay from "../../../assets/icons/lana.png"
 import SocialContact from "../../common/social-contact/index";
 function About() {
   return (
