@@ -9,7 +9,7 @@ function ProjectCard({ project }) {
           {project.demo && (
             <a className="project-link" href={project.demo}>
               <div className="link-button">
-                <i class="devicon-figma-plain colored"></i> Figma
+                <i class="devicon-figma-plain"></i> Figma
               </div>
             </a>
             )}
