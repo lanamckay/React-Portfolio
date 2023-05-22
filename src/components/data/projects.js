@@ -14,7 +14,7 @@ export const ProjectData=[
         id:1,
         title:"Out of the Groupchat",
         about: "Web application that makes planning events easy by asking participants to vote and indicate their availability from your options",
-        tags:["🛠️ React, TypeScript, HTML, CSS"],
+        tags:["🛠️ React, TypeScript, HTML, & CSS"],
         demo:"https://www.figma.com/file/sOLxYaAi3CVvV4KMPp4EA6/OOTGC-Website-Flow?type=design&node-id=0-1&t=W3geRR2Vx1tqnVIt-0",
         github:"https://github.com/MatthewZhang7/OOTGCcore",
         image: ootgc,
