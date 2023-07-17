@@ -8,7 +8,7 @@ export const WorkData = [
         dateJoining: "Jan ",
         dateEnd: " May 2023",
         companyLogo: empire,
-        work:"Drupal · PHP · OpenID Connect · Jupyter Notebook",
+        work: "React · HTML · CSS · Javascript",
     },
     {
         company: "Empire Life - Product Manager" ,
