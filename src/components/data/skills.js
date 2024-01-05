@@ -11,30 +11,22 @@ export const SkillsData = [
         icon: <i class="devicon-javascript-plain colored"></i>
       },
       {
-        name: "C++",
-        icon: <i class="devicon-cplusplus-plain colored"></i>
+        name: "Angular",
+        icon: <i class="devicon-angularjs-plain colored"></i>
+      },
+      {
+        name: "Java",
+        icon: <i class="devicon-java-plain colored"></i>
         },
       {
         name: "Node.js",
         icon: <i class="devicon-nodejs-plain colored"></i>
-        },
-      {
-        name: "Drupal",
-        icon: <i class="devicon-drupal-plain colored"></i>
         },
     ],
   },
   {
     type: "Tools",
     list: [
-      {
-        name: "Canva",
-        icon: <i class="devicon-canva-original colored"></i>
-      },
-      {
-        name: "Figma",
-        icon: <i class="devicon-figma-plain colored"></i>
-      },
       {
         name: "Jira",
         icon: <i class="devicon-jira-plain colored"></i>
@@ -46,6 +38,14 @@ export const SkillsData = [
       {
         name: "Azure",
         icon: <i class="devicon-azure-plain colored"></i>
+      },
+      {
+        name: "Canva",
+        icon: <i class="devicon-canva-original colored"></i>
+      },
+      {
+        name: "Figma",
+        icon: <i class="devicon-figma-plain colored"></i>
       },
     ],
   },

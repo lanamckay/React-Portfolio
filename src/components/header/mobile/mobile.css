@@ -34,6 +34,7 @@
 
 .mobile-option a{
     text-decoration: none;
-    color: #12ABF8;
+    /* color: #12ABF8; */
+    color: #9d7f7f;
     display: flex;
 }

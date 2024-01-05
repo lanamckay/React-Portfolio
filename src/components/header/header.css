@@ -27,7 +27,8 @@
 .logo{
     display: flex;
     font-size: 36px;
-    color: #12ABF8;
+    /* color: #12ABF8; */
+    color: #9d7f7f;
     font-weight: 800;
 }
 

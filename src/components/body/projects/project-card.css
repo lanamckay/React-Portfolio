@@ -27,7 +27,8 @@
 
 .tag {
     padding:  4px 8px;
-    background-color: #dfe8ec;
+    /* background-color: #dfe8ec; */
+    background-color: #d3c3be;
     border-radius: 4px;
     margin-right: 6px;
     margin-bottom: 4px;
@@ -48,7 +49,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #12ABF8;
+    /* background-color: #12ABF8; */
+    background-color: #9d7f7f;
     width: max-content;
     padding: 4px 8px;
     border-radius: 4px;

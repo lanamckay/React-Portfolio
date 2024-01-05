@@ -33,7 +33,8 @@
     overflow: hidden ;
     text-overflow: ellipsis;
     max-width: 90%;
-    color: #12ABF8;
+    /* color: #12ABF8; */
+    color: #9d7f7f;
     font-size: 12px;
 }
 
